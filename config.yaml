@@ -13,10 +13,10 @@ params:
     title: Hi, my name is Kaiyuan Li
   blog: {}
   contact: 
-    address: Baker Street
-      - city: city, ST 00000
+    address: 
+      - city: London NW1
         country: UK
-        street: Street
+        street: Baker Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
