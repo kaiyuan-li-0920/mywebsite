@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://kostis-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Kaiyuan Li
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,20 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      # -- A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      # -- AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Kaiyuan Li
   blog: {}
-  contact:
-    address:
-      - city: City, ST 00000
-        country: Country
+  contact: 
+    address: Baker Street
+      - city: city, ST 00000
+        country: UK
         street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: wli.mam2023@london.edu
         title: Email
     enable: yes
     phone:
