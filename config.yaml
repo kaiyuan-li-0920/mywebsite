@@ -1,4 +1,4 @@
-baseURL: https://kostis-portfolio.netlify.app/
+baseURL: https://kaiyuanli.netlify.app/
 languageCode: en-us
 title: Portfolio website for Kaiyuan Li
 theme: forty
@@ -50,7 +50,7 @@ params:
         url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/kaiyuanl0920
       - icon: fa-github
         label: GitHub
         url: https://www.github.com
@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Generic Blog
+      #  url: blogs/ipsum
+      #- name: Elements
+      #  url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
