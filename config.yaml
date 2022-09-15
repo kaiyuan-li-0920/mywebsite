@@ -90,10 +90,10 @@ params:
         subtitle: What are the ratings between different genres and directors?
         title: IMDB Rating Analysis
         url: blogs/IMDB Ratings.html
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: Biden.jpg
+        subtitle: How does Biden's approval rate change in 2022?
+        title: Biden's Approval Margins
+        url: blogs/Biden's Approval Rate
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
