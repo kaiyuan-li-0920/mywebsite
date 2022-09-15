@@ -94,9 +94,9 @@ params:
         subtitle: How does Biden's approval rate change in 2022?
         title: Biden's Approval Margins
         url: blogs/Biden-s-Approval-Rate
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: Brexit.jpg
+        subtitle: Does Brexit favourability differ between parties?
+        title: Brexit Plot
         url: blogs/ipsum
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
