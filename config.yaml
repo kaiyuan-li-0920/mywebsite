@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: DSC_9511_20220525_205628.jpg
+      - image: 'DSC_9511_20220525_205628.jpg'
         subtitle: Ipsum Dolor Sit Amet
         title: About Me
         url: blogs/aliquam
