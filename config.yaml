@@ -44,19 +44,19 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/kyss_hhqy
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/profile.php?id=100085575019956
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/kaiyuanl0920
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/kaiyuan-li-0920
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/kaiyuanl
   image: ''
   name: Your name
   navigation:
