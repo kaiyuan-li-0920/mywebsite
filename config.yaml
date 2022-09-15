@@ -86,18 +86,18 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: About Me
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: IMDB.jpg
+        subtitle: What are the ratings between different genres and directors?
+        title: IMDB Rating Analysis
+        url: blogs/IMDB Ratings
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
-#      - image: pic04.jpg
-#        subtitle: Nisl Sed Aliquam
-#        title: Ipsum
-#        url: blogs/ipsum
+      - image: pic04.jpg
+        subtitle: Nisl Sed Aliquam
+        title: Ipsum
+        url: blogs/ipsum
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
 #        title: Consequat
