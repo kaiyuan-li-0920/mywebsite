@@ -44,7 +44,7 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com/kyss_hhqy
+        url: https://twitter.com/kyss_hhqy
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/profile.php?id=100085575019956
