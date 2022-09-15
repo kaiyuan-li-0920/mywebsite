@@ -6,6 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
+    image: London Business School.jpg
     buttonText: Get Started
     subtitle: |-
        -- I'm a student in London Business School studying Analytics Management.         
@@ -35,7 +36,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Kaiyuan Li
     enable: yes
     quicklinks:
       - alt: HTML5 UP
