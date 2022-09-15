@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-       -- I'm a student in London Business School studying Analytics Management 
+       -- I'm a student in London Business School studying Analytics Management |-
        -- This is my personal website where I'll share my progress and everything about me.
     title: Hi, my name is Kaiyuan Li
   blog: {}
