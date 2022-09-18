@@ -11,9 +11,6 @@ keywords: ""
 slug: risk_return # slug is the shorthand URL address... no spaces plz
 title: Risk-Return of DJIA stocks
 ---
-  
-
-
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
@@ -31,7 +28,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-
 ```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
 library(lubridate)
@@ -45,7 +41,6 @@ library(purrr)
 library(lubridate) #to handle dates
 library(ggrepel)
 ```
-
 
 # Returns of financial stocks
 
@@ -93,9 +88,6 @@ tickers <- table1 %>%
 
 ```
 
-
-
-
 ```{r get_price_data, message=FALSE, warning=FALSE, cache=TRUE}
 # Notice the cache=TRUE argument in the chunk options. Because getting data is time consuming, # cache=TRUE means that once it downloads data, the chunk will not run again next time you knit your Rmd
 
@@ -108,7 +100,6 @@ glimpse(myStocks) # examine the structure of the resulting data frame
 ```
 
 Financial performance analysis depend on returns; If I buy a stock today for 100 and I sell it tomorrow for 101.75, my one-day return, assuming no transaction costs, is 1.75%. So given the adjusted closing prices, our first step is to calculate daily and monthly returns.
-
 
 ```{r calculate_returns, message=FALSE, warning=FALSE, cache=TRUE}
 #calculate daily returns
@@ -151,7 +142,6 @@ myStocks_returns_monthly %>%
 
 
 ```
-
 
 ```{r, risk_return, echo=FALSE}
 
