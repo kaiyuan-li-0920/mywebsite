@@ -84,15 +84,18 @@ params:
       - image: DSC_9511_20220525_205628.jpg
         subtitle: Everything about myself
         title: About Me
-        url: blogs/About_me
+        url: blogs/About
+        
       - image: IMDB.jpg
         subtitle: What are the ratings between different genres and directors?
         title: IMDB Rating Analysis
         url: blogs/IMDB_Ratings
+        
       - image: Biden.jpg
         subtitle: How does Biden's approval rate change in 2022?
         title: Biden's Approval Margins
         url: blogs/Biden-s-Approval-Rate
+        
       - image: Risk_Return.jpg
         subtitle: Risk and return analysis for DJIA Stocks
         title: Risk and Return
