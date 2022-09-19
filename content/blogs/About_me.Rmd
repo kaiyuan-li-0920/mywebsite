@@ -4,11 +4,11 @@ date: "2022-09-20"
 description: About Me # the title that will show up once someone gets to this page
 draft: false
 
-main: I graduated from the University of Nottingham Ningbo China and I majored in Finance, Accounting and Management. I took Introduction to Data Science as my elective and had an overall understanding of programming languages. This experience further inspired me to apply for MAM in LBS.
-
 As for my hobbies, I'm a huge musical fan and London is the great place to see musical shows, so I'm really looking forward to my life in London!
 
 keywords: ""
-slug: About_me # slug is the shorthand URL address... no spaces plz
+slug: "About_me" # slug is the shorthand URL address... no spaces plz
 title: About Me
 ---
+
+I graduated from the University of Nottingham Ningbo China and I majored in Finance, Accounting and Management. I took Introduction to Data Science as my elective and had an overall understanding of programming languages. This experience further inspired me to apply for MAM in LBS.
