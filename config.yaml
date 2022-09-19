@@ -84,7 +84,7 @@ params:
       - image: DSC_9511_20220525_205628.jpg
         subtitle: Everything about myself
         title: About Me
-        url: blogs/About
+        url: blogs/About_me
         
       - image: IMDB.jpg
         subtitle: What are the ratings between different genres and directors?
