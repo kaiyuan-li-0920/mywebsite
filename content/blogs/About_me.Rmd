@@ -1,8 +1,7 @@
 ---
-title: "About Me"
-description: "About Me" 
-slug: "About_me" 
-# image: 
+title: About Me
+description: About Me
+slug: About_me 
 keywords: ""
 date: 2022-09-20T22:42:51-05:00
 # the title that will show up once someone gets to this page
